@@ -24,7 +24,7 @@ A professional security testing tool for authorized penetration testing of Andro
 
 ---
 
-## ✨ Features
+##  Features
 
 - ✅ Brute force testing for 4-6 digit PIN codes
 - ✅ ADB-based communication with Android devices
@@ -366,7 +366,7 @@ The tool respects these by using **configurable delays**.
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues and Solutions
 
@@ -470,7 +470,7 @@ python3 android_brute_force.py
 
 ---
 
-## 📚 Ethical Guidelines
+## Ethical Guidelines
 
 ### ✅ DO's
 
@@ -560,7 +560,7 @@ python3 android_brute_force.py
 
 ---
 
-## 📝 Disclaimer
+## Disclaimer
 
 ```
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
