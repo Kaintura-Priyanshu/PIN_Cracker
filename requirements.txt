@@ -1,0 +1,25 @@
+# Android PIN Brute Force Tool
+# ============================
+
+# System Dependencies (Required)
+# ------------------------------
+# ADB (Android Debug Bridge) - Must be installed
+#   Kali/Debian/Ubuntu: sudo apt-get install adb
+#   Verify: adb --version
+
+# Python Dependencies (None Required)
+# -----------------------------------
+# Uses only Python standard library modules:
+# - subprocess, time, sys, os, itertools, signal
+# No pip install needed for Python packages
+
+# Optional Packages (For Enhanced Features)
+# -----------------------------------------
+# Uncomment to install enhanced features:
+# colorama==0.4.6    # Colored output
+# tqdm==4.66.1       # Progress bars
+
+# Installation:
+#   sudo apt-get install adb
+#   chmod +x android_brute_force.py
+#   python3 android_brute_force.py
