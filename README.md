@@ -71,7 +71,7 @@ A professional security testing tool for authorized penetration testing of Andro
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/Kaintura-Priyanshu/PIN_Cracker.git
 cd android-brute-force
 
 # Make setup script executable
@@ -93,7 +93,7 @@ sudo apt-get update
 sudo apt-get install adb python3
 
 # Clone and setup
-git clone 
+git clone https://github.com/Kaintura-Priyanshu/PIN_Cracker.git
 cd android-brute-force
 chmod +x android_brute_force.py
 ```
@@ -105,7 +105,7 @@ chmod +x android_brute_force.py
 brew install android-platform-tools python3
 
 # Clone and setup
-git clone 
+git clone https://github.com/Kaintura-Priyanshu/PIN_Cracker.git
 cd android-brute-force
 chmod +x android_brute_force.py
 ```
@@ -118,7 +118,7 @@ chmod +x android_brute_force.py
 
 # Extract and add to PATH
 # Then clone and run:
-git clone 
+git clone https://github.com/Kaintura-Priyanshu/PIN_Cracker.git
 cd android-brute-force
 python android_brute_force.py
 ```
@@ -163,7 +163,7 @@ adb devices
 
 ```bash
 # Clone from GitHub
-git clone 
+git clone https://github.com/Kaintura-Priyanshu/PIN_Cracker.git
 cd android-brute-force
 
 # Or if you have the files locally
@@ -199,7 +199,7 @@ adb devices
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 ### Interactive Mode (Recommended)
 
@@ -261,7 +261,7 @@ RESULTS
 
 ---
 
-## 💻 Command Examples
+## Command Examples
 
 ### Basic Usage
 
